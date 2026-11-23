@@ -1,0 +1,19 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Node
+node_modules/
+
+# Secrets and signing
+.env
+*.jks
+*.keystore
+google-services.json
